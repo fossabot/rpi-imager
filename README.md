@@ -1,4 +1,6 @@
 # Raspberry Pi Imager
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Frpi-imager.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Frpi-imager?ref=badge_shield)
+
 
 Raspberry Pi Imaging Utility
 
@@ -152,3 +154,6 @@ defaults write org.raspberrypi.Imager.plist telemetry -bool NO
 The main code of the Imaging Utility is made available under the terms of the Apache license.
 See license.txt and files in "src/dependencies" folder for more information about the various open source licenses that apply to the third-party dependencies used such as Qt, libarchive, drivelist, mountutils and libcurl.
 For the embedded (netboot) build see also "embedded/legal-info" for more information about the extra system software included in that.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Frpi-imager.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Frpi-imager?ref=badge_large)
